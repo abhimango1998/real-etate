@@ -177,7 +177,7 @@ const Login = ({ mode }) => {
           <div className="flex flex-col gap-1">
             <Typography variant="h4">{`Welcome to ${themeConfig.templateName}! 👋🏻`}</Typography>
             <Typography>
-              Please sign-in to your account and start the adventure
+              Please sign-in to your account and start the adventureeeeeeeeeeeeeeeeeeeeeeeeeeeeee
             </Typography>
           </div>
           <form
